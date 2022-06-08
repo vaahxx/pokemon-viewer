@@ -84,7 +84,7 @@ export default function Home() {
 
         <div style={{ justifyContent: 'space-around', display: 'flex', width: '80%' }}>
           <div>
-            <h5>Moves</h5>
+            <h3>Moves</h3>
             <List sx={{
               width: '100%',
               maxWidth: 360,
@@ -106,7 +106,7 @@ export default function Home() {
 
 
           <div>
-            <h5>Abilities</h5>
+            <h3>Abilities</h3>
             <List sx={{
               width: '100%',
               maxWidth: 360,
