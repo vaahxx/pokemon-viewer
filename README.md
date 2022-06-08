@@ -2,6 +2,9 @@
 
 Select a pokemon and check out its image, moves and abilities
 
+<img width="908" alt="image" src="https://user-images.githubusercontent.com/39314687/172634263-c7faf0d4-22dc-4657-b870-212cc1c63075.png">
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
