@@ -1,8 +1,14 @@
 # pokemon-viewer
 
-Select a pokemon and check out its image, moves and abilities
+Select a pokemon and check out its avatar, moves and abilities.
+
+### Images:
 
 <img width="908" alt="image" src="https://user-images.githubusercontent.com/39314687/172634263-c7faf0d4-22dc-4657-b870-212cc1c63075.png">
+
+### Demo video:
+
+https://user-images.githubusercontent.com/39314687/172639118-c1ac434f-2485-4b40-86cc-c92d08664730.mov
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
